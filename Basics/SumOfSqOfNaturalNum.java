@@ -1,5 +1,3 @@
-package lect2;
-
 import java.util.Scanner;
 
 public class SumOfSqOfNaturalNum {
