@@ -1,4 +1,3 @@
-package lec3;
 import java.util.*;
 public class Pattern6 {
 
