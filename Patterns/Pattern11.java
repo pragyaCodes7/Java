@@ -1,4 +1,3 @@
-package lec4;
 import java.util.*;
 public class Pattern11 {
 
