@@ -1,4 +1,3 @@
-package lect6;
 import java.util.*;
 public class HollowRhombus {
 
