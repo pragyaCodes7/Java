@@ -1,4 +1,3 @@
-package lect5;
 import java.util.*;
 public class SumOfOdd_EvenPlace {
 
