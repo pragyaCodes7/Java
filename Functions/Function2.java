@@ -1,5 +1,3 @@
-package lec9;
-
 public class Function2 {
 	
 	public static int countDigit(int n) {
