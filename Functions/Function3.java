@@ -1,4 +1,3 @@
-package lec9;
 import java.util.*;
 public class Function3 {
 	
